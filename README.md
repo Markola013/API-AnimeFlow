@@ -7,16 +7,16 @@ Esta aplicação é uma **Single Page Application (SPA)** completa para o gerenc
 ## 📋 Requisitos da Rubrica Implementados
 
 ### 💻 Back-end (API)
-* [cite_start]**Endpoints CRUD**: Implementação dos 4 verbos HTTP (GET, POST, PUT, DELETE)[cite: 10, 12].
-* [cite_start]**Status HTTP**: Respostas em JSON com status adequados (200 OK, 201 Created, 204 No Content)[cite: 11].
-* [cite_start]**Tecnologia**: Node.js com Express (Linguagem de preferência do aluno)[cite: 5, 39].
+* **Endpoints CRUD**: Implementação dos 4 verbos HTTP (GET, POST, PUT, DELETE).
+* **Status HTTP**: Respostas em JSON com status adequados (200 OK, 201 Created, 204 No Content).
+* **Tecnologia**: Node.js com Express (Linguagem de preferência do aluno).
 
 ### ⚛️ Front-end (React 19)
-* [cite_start]**Hook `use()`**: Consumo da API utilizando o novo hook `use()` do React 19[cite: 14].
-* [cite_start]**Suspense & Fallback**: Utilização de `<Suspense>` com componente de fallback para carregamento.
-* [cite_start]**CRUD Completo**: Interface funcional para Criar, Ler, Atualizar e Deletar[cite: 16].
-* [cite_start]**Interface UI**: Layout limpo, responsivo e organizado utilizando Tailwind CSS[cite: 15, 41].
-* [cite_start]**Feedback ao Usuário**: Alertas visuais confirmando o sucesso de cada operação.
+* **Hook `use()`**: Consumo da API utilizando o novo hook `use()` do React 19.
+* **Suspense & Fallback**: Utilização de `<Suspense>` com componente de fallback para carregamento.
+* **CRUD Completo**: Interface funcional para Criar, Ler, Atualizar e Deletar.
+* **Interface UI**: Layout limpo, responsivo e organizado utilizando Tailwind CSS.
+* **Feedback ao Usuário**: Alertas visuais confirmando o sucesso de cada operação.
 
 ---
 
